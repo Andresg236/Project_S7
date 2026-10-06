@@ -3,8 +3,8 @@ Este proyecto consiste en crear un entorno virtual, analizando un conjunto de da
 Link del proyecto: https://github.com/Andresg236/Project_S7.git
 
 El repositorio contiene los siguientes archivos:
-* El dataset en formato csv ('vehicles_us_clean.csv')
-* El dataset posterior a la limpieza de datos en formato csv ('vehicles_usc.csv')
+* El dataset en formato csv ('vehicles_us.csv')
+* El dataset posterior a la limpieza de datos en formato csv ('vehicles_usc_clean.csv')
 * Una lista de librerias requeridas en el entorno ('requirements.txt')
 * Un analisis exploratorio en el que se explica paso a paso la limpieza de los datos y sus estadisticas descriptivas mas relevantes en un formato notebook (EDA.ipynb)
 * Un archivo python que contiene el codigo de la aplicacion para su respectiva ejecucion y visualizacion (app.py)
