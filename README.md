@@ -1,6 +1,6 @@
 # Project_S7
 Este proyecto consiste en crear un entorno virtual, analizando un conjunto de datos de venta de autos y desarrollando una interfaz grafica para crear histogramas y graficos de dispersion. Por ultimo se utiliza streamlit para su visualizacion y ejecucion.
-Link del proyecto: https://github.com/Andresg236/Project_S7.git
+Link del proyecto: https://project-s7-8jjh.onrender.com/
 
 El repositorio contiene los siguientes archivos:
 * El dataset en formato csv ('vehicles_us.csv')
